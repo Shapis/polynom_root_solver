@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Numérico</string>
+   
+
+    <!--  Overflow menu -->
+	<string name="action_import_file">Importar</string>
+	<string name="action_export_file">Exportar</string>
+
+	<!-- Left side drawer items -->
+    <string-array name="items">
+        <item>Entradas</item>
+        <item>Saidas</item>
+    </string-array>
+    
+    
+    <!--  Drawer stuff -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Single input fragment -->
+
+    <string name="single_input_added">Adicionado!</string>
+
+    <!-- Single results fragment -->
+
+    <string name="single_variable_title">Solução para o polinômio:</string>
+    <string name="dual_variable_title">Solução para o polinômio:</string>
+    <string name="single_variable_body">Solução pelo algoritmo.</string>
+    <string name="single_results_text1">Solução pelo algoritmo.</string>
+    <string name="single_results_text2">\nMédia</string>
+    <string name="single_results_text3">\n\u03C3</string>
+    <string name="single_results_text4">\n\u03C3 Médio</string>
+    <string name="single_results_text5">Add</string>
+    <string name="single_results_text6">Reset</string>
+    
+
+
+</resources>
